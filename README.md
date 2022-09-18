@@ -17,9 +17,13 @@ DATABRICKS_TOKEN
 
 ## Scaffolds
 README.md
+
 Makefile
+
 requirements.txt
+
 querydb.py
+
 query_sql_db.py
 
 ## Fastapi
