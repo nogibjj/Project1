@@ -19,11 +19,14 @@ DATABRICKS_TOKEN
 python querydb.py
 
 python query_sql_db.py
+
 <img width="592" alt="image" src="https://user-images.githubusercontent.com/70648104/190932472-fa68e3d6-c58b-4193-9e67-7a012120e879.png">
 
 ## Fastapi
 fastapi_app.py
+
 <img width="570" alt="image" src="https://user-images.githubusercontent.com/70648104/190932438-bf06c9ee-d4b3-4726-8412-8956cc46158b.png">
+
 <img width="777" alt="image" src="https://user-images.githubusercontent.com/70648104/190932447-5d5865db-ebf4-42a1-b428-10ac6b34c6f1.png">
 
 
