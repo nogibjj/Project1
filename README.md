@@ -6,6 +6,9 @@ I downloaded a dataset from Kaggle, and set up the connection between Databrick 
 ## About the dataset
 The data points were collected from a Combined Cycle Power Plant over 6 years (2006-2011) when the power plant was set to work with a full load. Features consist of hourly average ambient variables - Ambient Temperature (AT), Ambient Pressure (AP), Relative Humidity (RH) and Exhaust Vacuum (V) to predict the net hourly electrical energy output (PE) of the plant.
 
+<img width="580" alt="image" src="https://user-images.githubusercontent.com/70648104/190932512-176a6da6-827d-4887-b747-178819f44b72.png">
+
+
 ## Connect Databricks cluster to Github Codespace
 DATABRICKS_SERVER_HOST
 
