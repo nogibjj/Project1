@@ -8,8 +8,11 @@ The data points were collected from a Combined Cycle Power Plant over 6 years (2
 
 ## Connect Databricks cluster to Github Codespace
 DATABRICKS_SERVER_HOST
+
 DATABRICKS_HTTP_PATH
+
 DATABRICKS_SERVER_HOSTNAME
+
 DATABRICKS_TOKEN
 
 ## Scaffolds
