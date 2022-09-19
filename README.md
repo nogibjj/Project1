@@ -3,6 +3,8 @@
 ## Overview
 I downloaded a dataset from Kaggle, and set up the connection between Databrick and Codespace. So the users can query the dataset throught sql and Fastapi.
 
+<img width="1175" alt="image" src="https://user-images.githubusercontent.com/70648104/190947074-07f8037d-9e0d-4504-8ee5-3717a3e2c514.png">
+
 ## About the dataset
 The data points were collected from a Combined Cycle Power Plant over 6 years (2006-2011) when the power plant was set to work with a full load. Features consist of hourly average ambient variables - Ambient Temperature (AT), Ambient Pressure (AP), Relative Humidity (RH) and Exhaust Vacuum (V) to predict the net hourly electrical energy output (PE) of the plant.
 
