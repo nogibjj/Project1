@@ -32,6 +32,10 @@ fastapi_app.py
 
 <img width="570" alt="image" src="https://user-images.githubusercontent.com/70648104/190932438-bf06c9ee-d4b3-4726-8412-8956cc46158b.png">
 
+<img width="703" alt="image" src="https://user-images.githubusercontent.com/70648104/190947314-162a1682-6283-434c-b6a5-7e6521bcf354.png">
+
+<img width="786" alt="image" src="https://user-images.githubusercontent.com/70648104/190947344-7f3dc8dc-1af5-4b1c-8a1f-38feca865918.png">
+
 <img width="777" alt="image" src="https://user-images.githubusercontent.com/70648104/190932447-5d5865db-ebf4-42a1-b428-10ac6b34c6f1.png">
 
 
